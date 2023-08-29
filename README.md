@@ -1,2 +1,2 @@
 # crack-division
-Guess based division algorithms for metaphorical crackheads
+Guess based division algorithm for metaphorical crackheads
